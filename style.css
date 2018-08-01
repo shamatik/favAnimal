@@ -1,0 +1,32 @@
+body {
+    font-family: helvetica;
+    background-image: url("https://cdn.dribbble.com/users/1541867/screenshots/3223024/cone-design.png");
+    background-repeat: repeat;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 25px;
+    color: black;   
+}
+
+
+content{
+
+    margin: 30px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.animalInfo {
+
+    margin: 120px;
+    padding: 0;
+}
+
+img {
+    float: right;
+}
